@@ -7,6 +7,7 @@ This homework is divided into 2 parts:
   - Problem 2 will help you practice indexing and slicing NumPy arrays in
         1D, 2D, and 3D.
 
+For assignment instructions, please see [PGE 310 2021 Fall Homework 3.pdf](PGE 310 2021 Fall Homework 3.pdf)
 Please submit this assignment as a Python file (.py) on Github classroom.
 For more comprehensive instructions on how to test and submit your code,
 refer to the posted instructions document on Canvas.
