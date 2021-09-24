@@ -14,5 +14,13 @@ refer to the posted instructions document on Canvas.
 Indexing and slicing can be tricky, even for seasoned Python pros, but it's one
 of the most useful skills to learn! And as always, we're here to help!
 
+**Important note:**
+We are changing how we provide instant feedback on your code:
+
+ - Instead of uploading to GitHub and waiting to check the unit test results, the new feedback system is built in to each problem.
+ - You will still upload your homework to GitHub classroom to turn it in. There just will not be a unit test for it: no red X or green checkmark will appear.
+
+Please refer to [these instructions](instant_feedback_instructions.pdf) for further details.
+
 Feel free to contact Dr. P, Alex, Bernie, or Ziming with problems, questions, or comments.
 
