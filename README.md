@@ -1,8 +1,18 @@
-# Assignment Template
+# PGE310 Fall 2021 Homework 3
 
-A Github workflow template for PGE310 assignments. 
+This homework is divided into 2 parts: 
 
-## Workflow
-1. Create a Python 3.8 environment with required packages for each assignment as specified in environment.yml
-2. Run unit tests (green checkmark = all tests passed 😁)
+  - In Problem 1 you will practice plotting while using a fun linear algebra
+        application, the rotation matrix.
+  - Problem 2 will help you practice indexing and slicing NumPy arrays in
+        1D, 2D, and 3D.
+
+Please submit this assignment as a Python file (.py) on Github classroom.
+For more comprehensive instructions on how to test and submit your code,
+refer to the posted instructions document on Canvas.
+
+Indexing and slicing can be tricky, even for seasoned Python pros, but it's one
+of the most useful skills to learn! And as always, we're here to help!
+
+Feel free to contact Dr. P, Alex, Bernie, or Ziming with problems, questions, or comments.
 
