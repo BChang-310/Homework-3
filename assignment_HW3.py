@@ -24,7 +24,7 @@ Feel free to contact Dr. P, Alex, Bernie, or Ziming with problems, questions, or
 # Import NumPy and Matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
-from HW3_numerical_solutions import test_solution
+from test_HW3 import test_solution
 
 #%%
 '''
