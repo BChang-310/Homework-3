@@ -8,8 +8,6 @@ This homework is divided into 2 parts:
   - Problem 2 will help you practice indexing and slicing NumPy arrays in
         1D, 2D, and 3D.
 
-The link to the assignment and the .py version of this document is here:
-
 Please submit this assignment as a Python file (.py) on Github classroom.
 For more comprehensive instructions on how to test and submit your code,
 refer to the posted instructions document on Canvas.
